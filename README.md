@@ -34,7 +34,7 @@ python descriptive-statistics.py
 python inferential-statistics_regression-analysis.py
 ```
 
-## CONTENTS
+## Contents
 Data/: Folder containing the anonymised survey data.
 
 Variants/: Folder containing images of the named product packaging design variants
